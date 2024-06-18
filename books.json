@@ -10,7 +10,8 @@
       "adventure",
       "popular"
     ],
-    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911"
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "09-06-2024"
   },
   {
     "title": "Harry Potter and the Philosopher's Stone",
@@ -23,7 +24,8 @@
       "magic",
       "popular"
     ],
-    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911"
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "09-07-2024"
   },
   {
     "title": "Noughts and Crosses",
@@ -36,7 +38,8 @@
       "fiction",
       "politics"
     ],
-    "loaned_by_id": ""
+    "loaned_by_id": "",
+    "return_date": ""
   },
   {
     "title": "Smashed",
@@ -49,7 +52,8 @@
       "fiction",
       "manga"
     ],
-    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d"
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "17-06-2024"
   },
   {
     "title": "No Longer Human",
@@ -63,7 +67,8 @@
       "politics",
       "romance"
     ],
-    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911"
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "12-07-2024"
   },
   {
     "title": "No Longer Human",
@@ -79,7 +84,8 @@
       "horror",
       "manga"
     ],
-    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d"
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "29-08-2024"
   },
   {
     "title": "Knife Edge",
@@ -92,7 +98,8 @@
       "fiction",
       "politics"
     ],
-    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911"
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "02-04-2024"
   },
   {
     "title": "Checkmate",
@@ -106,7 +113,8 @@
       "politics",
       "mature"
     ],
-    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234"
+    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234",
+    "return_date": "24-06-2024"
   },
   {
     "title": "Double Cross",
@@ -120,7 +128,8 @@
       "politics",
       "mature"
     ],
-    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d"
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "07-06-2024"
   },
   {
     "title": "The Meditations",
@@ -134,7 +143,8 @@
       "self-help",
       "classic"
     ],
-    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234"
+    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234",
+    "return_date": "22-06-2024"
   },
   {
     "title": "The Republic",
@@ -146,7 +156,8 @@
       "history",
       "classic"
     ],
-    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234"
+    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234",
+    "return_date": "14-06-2024"
   },
   {
     "title": "Tomie",
@@ -160,7 +171,8 @@
       "fiction",
       "mature"
     ],
-    "loaned_by_id": ""
+    "loaned_by_id": "",
+    "return_date": ""
   },
   {
     "title": "The World Atlas of Coffee",
@@ -171,7 +183,8 @@
     "categories": [
       "horror"
     ],
-    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d"
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "09-01-2023"
   },
   {
     "title": "Magician",
@@ -186,7 +199,8 @@
       "politics",
       "romance"
     ],
-    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d"
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "09-06-2024"
   },
   {
     "title": "The Last",
@@ -199,6 +213,7 @@
       "mature",
       "mystery"
     ],
-    "loaned_by_id": ""
+    "loaned_by_id": "",
+    "return_date": ""
   }
 ]
